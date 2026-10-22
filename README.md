@@ -18,12 +18,14 @@ Projekt obejmuje interaktywny dashboard analizujący:
 
 ## Zakres prac
 
-- przygotowanie danych w Power Query i stworzenie tabeli Kalendarz,
-- model danych i relacje, 
-- utworzenie miar DAX,
-- projekt interaktywnego dashboardu,
-- wizualizacja danych,
-- wyciągnięcie wniosków na stan obecny dashboardu.
+- przygotowanie i transpozycję danych w Power Query,
+- przygotowanie tabeli kalendarza,
+- model danych i relacje,
+- miary DAX,
+- interaktywne wizualizacje,
+- drill down i tooltipy,
+- nawigację między stronami oraz fragmentatory i filtry,
+- analizę danych oraz wnioski i rekomendacje.
 
 ## Zawartość repozytorium
 
